@@ -11,7 +11,9 @@ This repository contains source code of sample web site with react.js.
 
 4-navigate to folder where source code available
 
-5-run npm start
+5-run npm install command
+
+6-run npm start command
 ```
 ```diff
 -Source code contains
